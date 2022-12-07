@@ -1,0 +1,5 @@
+2022-11-27T13:05:38.702691200 - bought: ID: 5, Name: Moonpie, Price in EUR: 1.80, Inventory left: 2, Amount put in: 23.
+2022-11-27T13:24:28.246987200 - bought: ID: 4, Name: Cloud Popcorn, Price in EUR: 3.65, Inventory left: 2, Amount put in: 4.
+2022-11-27T13:26:52.803168 - bought: ID: 5, Name: Moonpie, Price in EUR: 1.80, Inventory left: 1, Amount put in: 2.
+2022-11-27T13:28:23.587045200 - bought: ID: 6, Name: Cowtales, Price in EUR: 1.50, Inventory left: 1, Amount put in: 6.
+2022-12-07T21:35:44.050294900 - bought: ID: 7, Name: Wonka Bar, Price in EUR: 1.50, Inventory left: 3, Amount put in: 2.45.
